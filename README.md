@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`** 
 
-**+1 ano de experiência profissional**, unindo sólida base teórica e vivência de mercado  adquirida no estágio.
+**+1 ano de experiência profissional**, unindo sólida base teórica e vivência de mercado adquirida no estágio.
 
 ### 🚀 Tecnologias
 
