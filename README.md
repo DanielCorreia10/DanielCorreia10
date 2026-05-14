@@ -30,7 +30,7 @@
 
 ### 🎓 Formação
 - Técnico em **Desenvolvimento de Sistemas** pelo **SENAI**.
-- Atualmente cursando **Engenharia de Software**.
+- Atualmente cursando 5º semestre de **Engenharia de Software**.
 
 ---
 
