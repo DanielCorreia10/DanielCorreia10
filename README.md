@@ -23,7 +23,7 @@
 ---
 
 ### 💻 Experiência
-- Desenvolvimento de aplicações web utilizando o ecossistema **TypeScript** no frontend, **Angular/React**.
+- Desenvolvimento de aplicações web utilizando o ecossistema **TypeScript**, **Angular/React e NestJS**.
 - Foco atual de aprofundamento em **Java e Spring Boot** para a construção de APIs robustas e aplicação de boas práticas de programação.
 
 ---
